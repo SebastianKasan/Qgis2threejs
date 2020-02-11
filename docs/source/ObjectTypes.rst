@@ -5,6 +5,7 @@ Object Types
    :depth: 1
    :local:
 
+Note: If you have troubles with height values, i.e. your objects are not shown with the correct height, your buildings are not extruded or you cannot select a height field in the attribute table: make sure the height field is formatted as "Decimals".
 --------------
 
 .. _object-types-point-layer:
